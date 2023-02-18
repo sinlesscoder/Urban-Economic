@@ -90,3 +90,74 @@ B. Until 2001, the profit barely fell, then rose until 2008. From 2008, the prof
 -
 C. The small fall in 2001 might be related to the 9/11 event, where the stock markets plummeted and economic sectors were economically damaged. After the event, the economy and stock markets quickly became stable. Most of the corporates in New York City are related to Financial and Business Services, Retail Trade, Educational Services, and Manufacturing. Businesses like Wall Street are very popular in New York City that attracts economists and such throughout the world, so New York City would cluster with those people, and so more related businesses would come and cluster. By clustering, there will be enhancements in skills and new discoveries in knowledge. Knowledge spillovers are very common, so other businesses would gain the benefit of further extending their profit using the discovered knowledge. As more similar corporations cluster together, more people with matched skills will work in the corporations, which would lead to more output. The increase in profit from self-enhancement and clustering continued until the Great Recession in 2008 when a market crashed and many corporations shut down. The profit drastically sunk because of the recession until 2010. However, once the recession was over, the economy grew back to normal, corporations started to come back to normal, and knowledge is not something you can lose from a recession, so profits would grow back quickly, like in 2013, then there will be a cycle again of clustering and new knowledge spillovers. A small drop in profit around 2016 is because of the decline in stock value globally, such as Apple Inc stock. After the financial crisis, the profit increased by a similar cycle as the one after 2001 and other years.
 -
+
+Sources:
+Sources: 
+THE INVESTOPEDIA TEAM, Oct 12 2021, What Causes a Recession?, PART OF Guide to Economic Recession 
+https://www.investopedia.com/ask/answers/08/cause-of-recession.asp 
+Thorsten Beck, Robin Döttling, Thomas Lambert, Mathijs van Dijk, 2 July 2020, How banks affect investment and growth: New evidence, Research-based policy analysis and commentary from leading economists 
+https://voxeu.org/article/how-banks-affect-investment-and-growth 
+THE DIGEST (NBER), JANUARY 2003, What Reduced Crime in New York City, National Bureau of Economic Research 
+https://www.nber.org/digest/jan03/what-reduced-crime-new-york-city 
+Mary T. Bassett, M.D., M.P.H., Commissioner ,November 2006, Table 2: Estimated Population, Land Area and Population Density by County, Department of Health 
+https://www.health.ny.gov/statistics/vital_statistics/2004/table02.htm 
+Media of New York City, 9 October 2021, Economy of New York City, Wikipedia https://en.wikipedia.org/wiki/Economy_of_New_York_City 
+Data Commons, 2020, census.gov, fbi.gov, bls.gov, Place Explorer 
+https://datacommons.org/place/geoId/3651000?utm_medium=explore&mprop=count&popt=Per son&hl=en 
+Statista Research Department, Jan 20 2021, New York metro area - GDP 2001-2019, statista https://www.statista.com/statistics/183815/gdp-of-the-new-york-metro-area/ 
+United Nations - World Population Prospects, 2021, New York City Metro Area Population 1950-2021, 2010-2021 Macrotrends LLC 
+https://www.macrotrends.net/cities/23083/new-york-city/population 
+Berry, Michael ,November 22, 2013, The Great Recession and Its Aftermath, Federal Reserve History 
+https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath 
+Ryan Boykin, October 25 2019, The Great Recession's Impact on the Housing Market, Investopia 
+https://www.investopedia.com/investing/great-recessions-impact-housing-market/
+Division of Information and Marketing Services , APRIL 2019, Recent trends in employment and wages in New York City’s finance and insurance sector, U.S. BUREAU OF LABOR STATISTICS 
+https://www.bls.gov/opub/mlr/2019/article/recent-trends-in-employment-and-wages-in-nyc-financ e-and-insurance-sector.htm 
+Steven E. Miller, February 28, 2003, After the 9/11 Disaster: Washington's Struggle to Improve Homeland Security, belfercenter 
+https://www.belfercenter.org/publication/after-911-disaster-washingtons-struggle-improve-homel and-security 
+Jeff Andrews Dec 13, 2019, NYC home prices nearly doubled in the 2010s. What do the 2020s hold?, curbed 
+https://ny.curbed.com/2019/12/13/21009872/nyc-home-value-2010s-manhattan-apartments 
+US Census 2017, 2019, New York Population, populationU 
+https://www.populationu.com/us/new-york-population 
+Kenneth B. Bleiwas, 1-2020, New York City Employment Trends, Office of the NYC Comptroller https://www.osc.state.ny.us/files/reports/osdc/pdf/report-1-2020.pdf 
+Department of Numbers, 2019, New York GDP 
+https://www.deptofnumbers.com/gdp/new-york/ 
+Chris Isidore, February 22, 2012, Home prices at the lowest point in more than 10 years, money.CNN 
+https://money.cnn.com/2012/02/22/real_estate/home_sales/index.htm 
+PAUL KOSAKOWSKI, November 30, 2021, The Fall of the Market in the Fall of 2008, Investopia https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp#:~:text=By%20 the%20fall%20of%202008,the%20ensuing%20global%20Great%20Recession. 
+Douglas Elliman, 2011, the Douglas Elliman report, millersamuel 
+https://www.millersamuel.com/files/2011/10/MMR10.pdf 
+Fed, Mar 15, 2021, All Employees: Professional and Business Services in New York City, stlouisfed 
+https://fred.stlouisfed.org/series/SMU36935616000000001A 
+Fed, Sep 15, 2021, Real Median Household Income in New York, stlouisfed https://fred.stlouisfed.org/series/MEHOINUSNYA672N 
+Fed, Mar 15, 2021, All Employees: Air Transportation in New York City, NY, stlouisfed
+https://fred.stlouisfed.org/series/SMU36935614348100001A 
+Disastercenter, 2020, New York Crime Rates 1960 - 2019, Disastercenter https://www.disastercenter.com/crime/nycrime.htm 
+Martin Kohli, February 2014, Persistence of a high unemployment rate in New York City during the recent recovery, U.S. BUREAU OF LABOR STATISTICS 
+https://www.bls.gov/opub/btn/volume-3/persistence-of-a-high-unemployment-rate-in-new-york-cit y.htm?view_full 
+Fed, Nov 24, 2021, Corporate Profits After Tax, stlouisfed 
+https://fred.stlouisfed.org/series/CP 
+Timeline, How 9/11 Reshaped Foreign Policy, The Legacy of the Attacks https://www.cfr.org/timeline/how-911-reshaped-foreign-policy 
+James Dao, March 12, 1999, Population Grows in New York City at Faster Pace, New York Times 
+https://www.nytimes.com/1999/03/12/nyregion/population-grows-in-new-york-city-at-faster-pace. html 
+MARC DAVIS, July 12, 2021, The Impact Of 9/11 On Business, Investopia https://www.investopedia.com/financial-edge/0911/the-impact-of-september-11-on-business.asp x 
+Sam Roberts, March 24, 2011, New York City’s Population Barely Rose in the Last Decade, the Census Finds, New York Times 
+https://www.nytimes.com/2011/03/25/nyregion/25census.html 
+Wiki, 12 November 2021, 2015–2016 stock market selloff, Wikimedia Foundation, Inc https://en.wikipedia.org/wiki/2015%E2%80%932016_stock_market_selloff 
+YOAV GONEN, CLIFFORD MICHEL AND WILL WELCH AUG 12, 2021, New York City’s Population Booms — But Not for Everyone, Everywhere, The City 
+https://www.thecity.nyc/2021/8/12/22622776/new-york-city-population-booms-census 
+David Leonhardt, April 26, 2003, As Companies Reduce Costs, Pay Is Falling Top to Bottom, New York Times 
+https://www.nytimes.com/2003/04/26/business/as-companies-reduce-costs-pay-is-falling-top-to bottom.html 
+Wiki, 8 December 2021, Rent control in New York, Foundation, Inc
+https://en.wikipedia.org/wiki/Rent_control_in_New_York#:~:text=In%20New%20York%20City%2 C%20rent%20control%20is%20based%20on%20the,Maximum%20Base%20Rent%20is%20re ached.&text=Owners%20must%20apply%20for%20the%20Maximum%20Base%20Rent%20sy stem%20for%20the%20tenants. 
+John C. Liu, JULY 2013, Working but Still Struggling: THE CASE FOR A NEW YORK CITY MINIMUM WAGE, comptroller 
+https://comptroller.nyc.gov/wp-content/uploads/documents/NYC_MinimumWage.pdf 
+Lisa Nagele-Piazza, J.D., SHRM-SCP, December 30, 2016, New York Finalizes Salary Threshold Increases, shrm 
+https://www.shrm.org/resourcesandtools/legal-and-compliance/state-and-local-updates/pages/n ew-york-finalizes-salary-threshold-increases.aspx 
+Peace, September 9, 2015, YOUTH UNEMPLOYMENT CAUSES AND SOLUTIONS, peacechild 
+https://peacechild.org/youth-unemployment-causes-and-solutions/ 
+Andrew Mikula, April 13, 2020, Will the COVID-19-related economic recession cause a spike in crime?, pioneerinstitute 
+https://pioneerinstitute.org/news/will-the-covid-19-related-economic-recession-cause-a-spike-in crime/ 
+Anne Field, Jul 8, 2021, What caused the Great Recession? Understanding the key factors that led to one of the worst economic downturns in US history, businessinsider https://www.businessinsider.com/what-caused-the-great-recession 
+Christian Bautista, December 08, 2017, NYC luxury home prices expected to hit new lows in 2018, therealdeal 
+https://therealdeal.com/2017/12/08/nyc-luxury-home-prices-expected-to-hit-new-lows-in-2018/

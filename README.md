@@ -18,6 +18,7 @@ B. How did it change across the 18 years? Increased? Decreased? Increased then d
 C. Why do you think it changed the way it did.
 -
 ![Screenshot_10](https://user-images.githubusercontent.com/121634275/219885086-79eedc15-4eb7-4022-adaf-f84e2e08e3a1.png)
+
 A. The variable in the graph is Population Density (average population per square mile) in NYC from the year 2000 to 2018. 
 -
 B. The population density increases gradually from 2000 to 2009, but drops from 2009 to 2011 and then increases. Finally, drop again in population density in 2018. 
@@ -26,6 +27,7 @@ C. From 2000 to 2009, the population per square mile rose because of the number 
 However, after 2010, the population of New York City started to grow back again, which is because the number of jobs increased after the recession, so people came back to the city. Then finally, a decrease in population density again in 2018. One reason for this is Nash Equilibrium. The utility is balanced out between other states, which utility increases as the cost of living in the city increases due to New York City being one of the most popular cities in the United States. The prices for rent and living in general gradually rise, causing poorer people to leave the city from decreasing the utility of staying.
 -
 ![Screenshot_11](https://user-images.githubusercontent.com/121634275/219889150-206a8b48-199c-48c9-a115-4934d3d505bb.png)
+
 A. The variable is the average annual labor wage in New York City throughout the eighteen years. 
 -
 B. There are plenty of small ups and downs in the graph. The wage seems to grow until 2001, then fall until 2003, rise again until 2005, and fall until 2012. Then rises until 2016, falls in 2017 then finally rises in 2018. 
@@ -36,6 +38,7 @@ Since 2012, the average wage began to increase due to the increase in similar sm
 -
 
 ![Screenshot_12](https://user-images.githubusercontent.com/121634275/219889987-4c81eb18-60a1-4523-81f0-cd8c1c1b5dad.png)
+
 A. The variable for this graph is, Gross Domestic Product (GDP) in billions of dollars 
 for New York City, flow from 2000 to 2018. 
 -
@@ -44,6 +47,7 @@ B. GDP grew from 2000 to 2001, with a small fall in 2002, but rose from 2003 unt
 C. In New York City, there is plenty of businesses and commerce that would raise the GDP over time. Those are the banks, media, advertisement, entertainment, tourist areas, and such. One of the main businesses that attract the most people is Wall Street, being the leading financial center across the world. With a wide range of business and commerce, there will be plenty of job opportunities for people, raising the GDP of NYC. The small fall in 2002 is because the number of firms dropped during the time due to the 9/11 attack in 2001, so competition for employing workers decreased, therefore the output would decrease, which would lead to a decrease in GDP. However, the number of companies rose over time, leading to more civilians clustering in the city, so more inputs lead to more GDP. Then in 2008-2009, there was Great Depression, leading to a small drop in GDP due to numerous reasons being the crash of the stock market and housing market. The market crash lead to firms shutting down and people losing their job, so GDP fell during this time. Banks are one of the biggest companies in New York City, so they are one of the causes of the increase in GDP. The reason for the increase is because of improvement in productivity in some locations by lending money to other companies in order for them to actively produce an output with the input the bank has provided which the companies themselves could not have provided for their business.
 -
 ![Screenshot_17](https://user-images.githubusercontent.com/121634275/219892344-97117ff4-c5b3-4681-84fb-6f988f578b41.png)
+
 A. The variable for this is the number of people employed in New York City from 
 2000 to 2018. 
 -
@@ -54,6 +58,7 @@ safeties increased. The utility of staying in New York City has increased since 
 Then there was the Great Recession in 2008-2009, economic declines that led to many markets shut down due to the high numbers of “subprime mortgages”, leading to a market crash. Subprime Mortgages are mortgages for people who have imperfect credit. Due to the market crash, 98,600 jobs were lost, leading to a large percentage of people losing their job during the time. In terms of supply and demand, the supply of labor is very high during this time, however, the demand for labor is not so much, since jobs were lost. After the Great Recession, due to the high number of unemployed people, an additional 820,400 jobs were added in New York City, so the supply of labor equaled the demand for them and so the number of employed people rose in the graph until 2018.
 -
 ![Screenshot_13](https://user-images.githubusercontent.com/121634275/219890557-ced29b02-a52f-4b33-a396-fad69873a203.png)
+
 A. The variable in the graph is the average housing price in New York City from 2000 to 2018. 
 -
 B. According to the graph, the average housing price increased from 2000 until 2007, then continuously decreased until 2011, a small dip in 2012, then rose until 2017, and finally fell in 2018. 
@@ -61,6 +66,7 @@ B. According to the graph, the average housing price increased from 2000 until 2
 C. New York City is one of the most popular cities in the United States, so business clusters attract US citizens and immigrants to come for work, and so more business from outside would come to the city. The city itself becomes more and more clustered, which makes housing prices more expensive. New York is one of the few states with skyscrapers mostly because the land is very expensive, so it is necessary to make tall buildings to avoid owning more land. Then there was the Great Recession in 2008, where many people lost their jobs, many businesses shut down and the market crashed, leading to price drops for housing. Many people lost their homes after the subprime mortgage collapsed as the value of their homes dropped. The drop is due to the change in utility, the desire of staying in New York City is dropping for those who are financially unstable. The average utility of the people has to match the housing price, so the housing price has to drop with the utility, or people would move to other states. The drop continued until 2011, then rose again because the Great Recession ended in June 2009, so the state recovered back slowly, which took several months to come back to normal economically. After 2011, businesses are coming back, and so more people would come back to the state, therefore housing prices rise again. However, a small drop in 2012, because of required to pay the high debt after the recession, when people sell off their houses, so the average housing price fell during that time. The housing price fell because people want to pay their debt asap, or they will be charged in a different means. After 2012, there was a new policy for renting, the Rent Restriction Act, where landlords may increase the rent up to 7.5% every couple of years was applied in New York City, which explains the drastic increase in housing prices over time. The fall in 2018 is related to luxury houses in Manhattan dropping in prices, the reason is because of negative externalities like the tight environment in the city, and the amount of traffic, especially because Manhattan is one of the most popular places in New York City. These negative externalities cause people to leave the area, dropping the luxury house price.
 -
 ![Screenshot_14](https://user-images.githubusercontent.com/121634275/219890933-aabf84fa-c0b2-402e-aec9-26dd11addc6c.png)
+
 A. The variable here is the number of firms in thousands in New York City from the year 2000 to 2018. 
 -
 B. The graph begins by decreasing until 2003, then increases until 2008. There is a down and up for 2009-2010, then continuous growth until 2018. 
@@ -69,6 +75,7 @@ C. A very small change in the number of firms until around 2001, when the 9 /11 
 possibly move as well. The utility of staying in the state dropped, so the people found risking their life in New York City is not worth doing, so the number of firms decreased during that time. However, after 2003, the number of firms increased until 2008, which is because Bush made policies and increased the security in the state in order to reduce the possibility of an unexpected attack like 9/11. Places like the airport increased the number of security checks, reshaping Foreign Policy to be more secure from any foreign attack. With all the security, people and businesses start to come back to New York City, since safety is guaranteed, so the utility of staying in the city rose over time. However, in 2008, there was the Great Recession which ruined the market and economy in general. Many firms just shut down during this time, since the total cost is higher than the total benefit of keeping them active. After the recession, the number of firms began to grow again in 2010, since there weren't any major events after, firms continued to cluster as more people came to the state.
 -
 ![Screenshot_15](https://user-images.githubusercontent.com/121634275/219891122-4083e59d-1fc4-4dba-8b4f-ce0fec2f6ac2.png)
+
 A. The variable in the graph is the crime rate (of an exact number of people) in New York City from the year 2000 to 2018. 
 -
 B. The number of crimes falls from 2000 to 2007, but there are small ups and downs from 2008 to 2010, then a constant fall from there to 2018. 
@@ -76,6 +83,7 @@ B. The number of crimes falls from 2000 to 2007, but there are small ups and dow
 C. Ever since the 1990s, the police force has been increasing in numbers, so the cost of committing a crime in New York City has risen, which can explain the continuing decline in the crime rate until 2007. Also, the decline in unemployment would mean less robbery in general, since you can earn consistent money from working without risking being arrested by the cops unless you are not patient enough to wait for your salary. However, the Great Recession caused an increase in unemployment and people not able to pay their rent, building up their debt. The crime during the recession mainly included robbery, burglary, and automobile theft. The benefit of committing a crime like a robbery became higher than the cost of getting caught by the police for some people, which led to an increase in crime between 2008 and 2012. The cost rises because the risk of losing their home and being in debt is not worth having for some individuals, so would lead to a rise in the crime rate. Once the economy began to settle after the recession, the employment rate began to rise, and so the number of crimes decreased as well. The utility of the people living in New York City rises as they can pay for their rent and debt after the recession.
 -
 ![Screenshot_16](https://user-images.githubusercontent.com/121634275/219891645-13876470-8375-4b90-8f05-890614c92037.png)
+
 A. The variable in the graph is the average corporate profit in billions in New York City, from the year 2000 to 2018. 
 -
 B. Until 2001, the profit barely fell, then rose until 2008. From 2008, the profit fell until 2010 but drastically increased until 2013. Then downs and ups until 2016, and finally just increase until 2018. 

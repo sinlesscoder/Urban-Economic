@@ -4,7 +4,7 @@
 
 The **_task_** of this project was to pick any urban economy of my interest and gather information on eight variables from the following years from 2000 to 2018 (Population Density, Average labor wage, Gross domestic product, Average corporate profits, Employment Rate, Average housing Prices, Number of firms, Innovation index, Air quality index, Crime Rate).  
 -
-The **_goal_** of this project is to gather relevant data through the internet and learn to have critical analysis based on what we found using Excel.
+The **_goal_** of this project is to gather relevant data through the internet and use observational skill to determine the pattern between the graphs produced by Excel, then research on why such pattern happened.
 -
 I decided to use NYC as an urban area for research, below is the data I obtained by manually adding data from multiple sites into Excel.
 ![New York City Urban Project - Sheet1 (1)_page-0001](https://user-images.githubusercontent.com/121634275/219881188-b5b164fe-1a1f-4486-888e-a69fd4da83ab.jpg)
